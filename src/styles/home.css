@@ -1,0 +1,41 @@
+.home {
+    width: 100%;
+    height: calc(100vh);
+    position: relative;
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+}
+.back_comp {
+    position: absolute;
+    width: auto;
+    height: 100vh;
+    z-index: 0;
+    left: 50%;
+    right: 50%;
+    transform: translateX(-50%);
+
+}
+.home h1 {
+    position: relative;
+    z-index: 1;
+    color: wheat;
+    text-align: center;
+}
+.home h2 {
+    position: relative;
+    z-index: 1;
+    color: wheat;
+    text-align: center;
+}
+.show_text {
+    position: relative;
+    z-index: 1;
+}
+.home h3 {
+    color: wheat;
+    text-align: center;
+    font-size: 39px;
+}
+.centerText {
+    margin-top: calc(50vh - 250px);
+}

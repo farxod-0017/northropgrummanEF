@@ -1,0 +1,81 @@
+.page2 {
+    background-image: url('https://1.bp.blogspot.com/-xVU5C47c14c/X1I1A2XQ3bI/AAAAAAABhLw/kvhPmuh3LQsk8a0asc1-znGp70WlTdXdgCLcBGAsYHQ/w1200-h630-p-k-no-nu/Northrop-Grumman-Global-Headquarters.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: calc(100vh);
+    overflow: hidden;
+    padding: 10px 30px;
+}
+.page2 h2 {
+    color: black;
+}
+.page2 h1 {
+    text-align: center;
+    font-size: 28px;
+}
+.page2 .left_text {
+    background-color: rgba(245, 222, 179, 0.792);
+    padding: 20px;
+    box-shadow: 10px 10px 10px green;
+}
+
+.page3 {
+    background-image: url('https://th.bing.com/th/id/R.2e7392bd69172cb64fb648d6a5abb830?rik=jKa9row35NY83Q&pid=ImgRaw&r=0');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: calc(100vh);
+    overflow: hidden;
+    padding: 10px 30px;
+}
+.page3 h3 {
+    color: white;
+    text-align: center;
+    max-width: 70%;
+    margin: 30px auto;
+    font-size: 28px;
+    font-weight: 600;
+    background-color: rgba(1, 7, 7, 0.648);
+    padding: 20px;
+}
+
+.page4 {
+    background-image: url('https://i.pinimg.com/originals/ef/75/5a/ef755a634c2a232ebc8f6f0671ae5a55.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: calc(100vh);
+    overflow: hidden;
+    padding: 10px 30px;
+}
+.right_img {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: calc(22% - 20px);
+}
+.right_img img {
+    width: 100%;
+}
+.page4_wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: calc(10vh - 10px);
+}
+.page4 .left_text {
+    background-color: rgba(0, 0, 0, 0.639);
+    padding: 20px 25px;
+    box-shadow: 5px 5px 5px silver;
+}
+.page5 {
+    background-image: url('https://th.bing.com/th/id/OIP.F4xlHlvBg3mB8PXdwXICcwHaFj?rs=1&pid=ImgDetMain') !important;
+}
+.page6 {
+    background-image: url('https://th.bing.com/th/id/R.b778567ee222b5ddfe7b303fe30a372c?rik=SHeW9pz8CyPazA&pid=ImgRaw&r=0') !important;
+
+}

@@ -1,0 +1,19 @@
+.nav_btn {
+    width: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    list-style: none;
+    font-weight: 600;
+    background-color: rgb(3, 22, 227);
+    color: white;
+    position: fixed;
+    z-index: 10;
+    top: 20px;
+    right: 20px;
+}
+.prev_btn {
+    right: auto;
+    left: 20px;
+}

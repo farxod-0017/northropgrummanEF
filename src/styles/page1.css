@@ -1,0 +1,24 @@
+.page1 {
+    width: 100%;
+    height: calc(100vh);
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(90deg, black 40%, silver);
+    padding: 10px 30px;
+}
+.left_text h2 {
+    color: aliceblue;
+}
+.left_text {
+    width: calc(50vw + 50px);
+}
+.page1_wrap {
+    margin-top: calc(10vh + 10px);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+}
+.page1_wrap img {
+    width: calc(40vw - 60px);
+}
