@@ -11,12 +11,12 @@ function Header() {
             const nextPage = page + 1;
             setPage(nextPage);
             navigate('/1');
-        } else if (page > 0 && page<15) {
+        } else if (page > 0 && page<16) {
             const nextPage = page + 1;
             setPage(nextPage);
             navigate(`/${nextPage}`); // URLni /2, /3 ga o'zgartirish
-        } else if(page === 15) {
-            navigate('/15')
+        } else if(page === 16) {
+            navigate('/16')
         }
 
     };

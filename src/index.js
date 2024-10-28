@@ -19,6 +19,7 @@ import PageA4 from './pages/PageA4';
 import PageA5 from './pages/PageA5';
 import PageA6 from './pages/PageA6';
 import PageA7 from './pages/PageA7'
+import PageXulosa from './pages/PageXulosa';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 const myRouter = createBrowserRouter([{
@@ -88,6 +89,10 @@ const myRouter = createBrowserRouter([{
     },
     {
       path:'/15',
+      element:<PageXulosa/>
+    },
+    {
+      path:'/16',
       element:<PageA7/>
     }
   ]

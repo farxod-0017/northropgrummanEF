@@ -12,3 +12,29 @@ body {
 button {
     cursor: pointer;
 }
+.xulosa {
+    max-width: 800px;
+    width: 95%;
+    margin: 8vh auto;
+}
+.xulosa_bak {
+    background: linear-gradient(260deg, black 5%, white, blue);
+    height: 100vh;
+    overflow: hidden;
+}
+.xulosa h1 {
+    color: rgb(5, 125, 5);
+}
+.xulosa {
+    padding: 10px 20px;
+    background: rgba(255, 255, 255, 0.288);
+    box-shadow: 4px 4px 12px white;
+}
+.xulosa h3 {
+    color: black;
+    text-align: end;
+}
+.xulosa h2 {
+    color: blue;
+
+}
