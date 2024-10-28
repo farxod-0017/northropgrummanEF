@@ -20,7 +20,7 @@ function Page4() {
           <div className="right_img">
             <img src="https://th.bing.com/th/id/R.a708fe72c489256de3de8ba1a524f9da?rik=7yYRInj5w4%2bcJg&pid=ImgRaw&r=0" alt="" />
             <img src="https://web.com.bd/wp-content/uploads/2022/11/Extreme-Programming.jpg" alt="" />
-            <img src="https://th.bing.com/th/id/R.44073ccfcad98bf1a6423f0647c6eee1?rik=tjhrXTZU0Am8Xg&pid=ImgRaw&r=0" alt="" />
+            <img src="https://www.technotification.com/wp-content/uploads/2015/03/top-programming-languages-and-their-uses-1.jpg" alt="" />
           </div>
         </div>
       </section>
