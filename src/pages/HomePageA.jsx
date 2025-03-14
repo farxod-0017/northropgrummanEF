@@ -11,9 +11,9 @@ function HomePage() {
                 </div>
 
                 <h1>Taqdimot </h1>
-                <h2>Mavzu: UzInfoCom (human resource management).</h2>
+                <h2>Mavzu: UzInfoCom (Korporativ Boshqaruv).</h2>
                 <h3 className='show_text'>Muallif: Farxod Egamnazarov</h3>
-                <h3 className='centerText show_text'>Inson Resurslarini Boshqarish <br /> fani uchun tayyorlandi</h3>
+                <h3 className='centerText show_text'>Korporativ Boshqaruv <br /> fani uchun tayyorlandi</h3>
             </section>
         </div>
     )
